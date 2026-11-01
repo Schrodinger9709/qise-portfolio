@@ -1,4 +1,4 @@
-# schrodinger9709-qise
+# qise-portfolio
 Main Hub for QISE programs and projects.
 
 # Hello, my name is Katriel Khoffie.
