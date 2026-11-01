@@ -1,0 +1,17 @@
+# Quantum portfolio: Python 3.11 or newer
+# INstall with: pip install -r requirements.txt
+
+# Quantum Computing
+qiskit==2.6.1
+qiskit-aer==0.18.2              # fast local simulators and noise models
+qiskit-ibm-runtime==0.51.0      # running circuits on IBM Quantum hardware
+
+# Math, science, and plotting
+numpy==2.5.4
+scipy==1.18.1                   # classical optimizers for variational algorithms
+sympy==1.14.0                   # symbolic math, primes, and number theory for RSA
+matplotlib==3.11.2
+pylatexenc==2.11                # LaTeX rendering in matplotlib for Qiskit's circuit.draw("mpl") feature
+
+#Notebook environment 
+jupyterlab==4.6.5
